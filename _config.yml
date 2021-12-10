@@ -45,7 +45,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Palo Alto, California
-  - line: '&&'
+  - line: '&'
   - line: Oxford, England
 
 # Credits content
