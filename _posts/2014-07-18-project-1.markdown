@@ -6,6 +6,7 @@ img: iohk-symbol-big.png
 alt: image-alt
 project-date: September 2020
 client: Input Output HK
+url: https://en.wikipedia.org/wiki/Cardano_(blockchain_platform)
 category: Software Test Engineering
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: I worked as an embedded software test engineer with the Cardano Node, Benchmarking, and Enterprise teams. This included working on the release of Shelley, the decentralization of the Cardano blockchain, and rolling out staking to the community.
 ---
