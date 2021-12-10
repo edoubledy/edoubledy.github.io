@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2020-09-01
-title: Cardano Blockchain
+title: Cardano
 img: iohk-symbol-big.png
 alt: image-alt
 project-date: September 2020
