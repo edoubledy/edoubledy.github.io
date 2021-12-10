@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2021-08-01
-title: Mangata Decentralized Exchange
+title: Mangata
 img: mangata.png
 alt: image-alt
 project-date: August 2021
