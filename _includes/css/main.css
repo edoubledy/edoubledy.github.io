@@ -482,3 +482,9 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.avatar {
+    border-radius: 50%;
+    max-width: 400px;
+    max-height: 400px;
+}
